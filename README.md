@@ -3,11 +3,13 @@ Hello !
 To run the project you must open 2 terminals preferably; one for the backend, the other for the frontend;
 
 -backend terminal:
+
 First make sure you are in the right path (.../backend> ), then type:
 >nodemon server 
 >>this will start your backend using Mongodb and express.
 
 -frontend terminal:
+
 First make sure you are in ther right path (.../frontend> ), then type:
 >npm install
 >>this will install all requiered npm packages (should take like 5-10 mins to finish).
